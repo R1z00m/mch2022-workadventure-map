@@ -960,12 +960,6 @@
                  "id":45,
                  "name":"main stage tiles",
                  "opacity":1,
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MainStage"
-                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":64,
